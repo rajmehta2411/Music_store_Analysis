@@ -17,7 +17,7 @@
 * Dataset is divided into 7 tables, one table for all orders that needs to be assigned a route – OrderList table, and 6 additional files specifying the problem and restrictions. 
 
 # Schema Diagram :- 
-* The first step we took was understanding the data, as the dataset contains 7 tables. 
+<img width="594" alt="schema_diagram" src="https://github.com/rajmehta2411/Music_store_Analysis/assets/100788209/abb577d7-369f-4379-9f27-bd77832d47f4">
 
 
 # Analysis :-
